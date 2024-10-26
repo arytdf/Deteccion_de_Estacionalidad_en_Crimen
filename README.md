@@ -81,9 +81,6 @@ The project structure follows a cookiecutter-based data science approach and inc
 ## Project Value
 This project will provide value by helping local authorities make informed and proactive decisions about the allocation of police resources and the design of preventive strategies. With planning based on seasonal predictions, crime spikes can be mitigated and public safety can be optimized for the benefit of the community.
 
-**... (continue with the remaining sections of your project, such as results, technologies used, etc.)**
-
-
 Project Organization
 ------------
 
