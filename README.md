@@ -1,7 +1,7 @@
 Deteccion de Estacionalidad en crimen
 ==============================
 
-Analisis sobre delitos en el transcurso del año y su insidencia o no respecto al mes en curso
+Analisis sobre delitos en el transcurso del año y su insidencia o no respecto al mes en 
 
 Project Organization
 ------------
