@@ -46,7 +46,7 @@ Este proyecto aportará valor al ayudar a las autoridades locales a tomar decisi
 # Detecting Seasonality in Crime in Tierra del Fuego
 
 ## Project Objective
-The primary goal of this project is to implement a time series analysis model to detect seasonal patterns in the occurrence of different types of crimes in the Province of Tierra del Fuego, AeIAS, from 2014 to 2024. By using machine learning techniques and statistical analysis, we aim to identify recurring trends that can predict periodic increases or decreases in crime incidence, to assist local authorities in decision-making regarding the allocation of police resources and the development of preventive strategies.
+The primary objective of this project is to implement a time series analysis model to detect seasonal patterns in the occurrence of different types of crimes in the Province of Tierra del Fuego, AeIAS, from 2014 to 2024. By using machine learning techniques and statistical analysis, we aim to identify recurring trends that can predict periodic increases or decreases in crime incidence, to assist local authorities in decision-making regarding the allocation of police resources and the development of preventive strategies.
 
 ## Problem Context
 Crime and criminal incidents are persistent issues in many societies. In the Province of Tierra del Fuego, AeIAS, crime variation over time is influenced by numerous social, economic, and cultural factors, and it has been observed that crime can have seasonal components, with certain types of crimes occurring more frequently in specific months or seasons. For example, property theft may be more common during the summer, while other types of crimes may increase in specific months due to holidays or vacations.
@@ -57,10 +57,10 @@ Understanding these seasonal patterns is crucial for anticipating increases in c
 This project seeks to answer the following research questions:
 
 1. Are there clear seasonal patterns in the incidence of certain types of crimes in the Province of Tierra del Fuego?
-2. Which types of crimes show a higher correlation with certain months or seasons of the year?
+2. Which types of crimes show higher correlation with certain months or seasons of the year?
 3. How can seasonal trends help predict increases in criminal activity and support police resource planning?
 
-**Hypotheses:**
+The hypotheses to be tested include:
 
 * **H1:** There is significant seasonality in the occurrence of some types of crimes, with certain peaks repeating during the same months across years.
 * **H2:** Property crimes have higher incidence during summer months due to increased tourism activity and lower property supervision.
