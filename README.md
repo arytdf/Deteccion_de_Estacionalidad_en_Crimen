@@ -33,53 +33,41 @@ Este proyecto busca responder las siguientes preguntas de investigación:
 2. ¿Cuáles son los tipos de delitos que muestran una mayor valoración con ciertos meses o estaciones del año?
 3. ¿Cómo pueden las tendencias estacionales ayudar a predecir aumentos en la actividad delictiva y apoyar la planificación de recursos policiales?
 
-**Hipótesis:**
+Las hipótesis a probar incluyen:
 
 * **H1:** Existe una estacionalidad significativa en la ocurrencia de algunos tipos de delitos, con ciertos picos que se repiten en los mismos meses a lo largo de los años.
 * **H2:** Los delitos contra la propiedad presentan una mayor incidencia durante los meses de verano, debido al aumento de actividad turística y menor supervisión de propiedades.
 * **H3:** El análisis de series temporales puede predecir con una exactitud razonable los picos de actividad delictiva, facilitando una mejor distribución de los recursos de seguridad.
 
-## Estructura del proyecto
-La estructura del proyecto sigue un enfoque de ciencia de datos basado en cookiecutter e incluye:
-* **Limpieza de datos:** Preparación y limpieza de los datos históricos de delitos.
-* **Análisis exploratorio de datos (EDA):** Análisis preliminar para identificar patrones y tendencias.
-* **Modelado:** Desarrollo de modelos de series temporales para capturar la estacionalidad en los datos.
-* **Evaluación:** Validación de modelos para asegurar una predicción precisa.
-* **Despliegue:** Preparación del modelo para su uso por las autoridades locales.
-
-## Valor del proyecto
 Este proyecto aportará valor al ayudar a las autoridades locales a tomar decisiones informadas y proactivas sobre la asignación de recursos policiales y el diseño de estrategias preventivas. Con una planificación basada en predicciones de estacionalidad, se pueden mitigar los picos de criminalidad y optimizar la seguridad pública en beneficio de la comunidad.
-
 
 [English Version]
 
-# Seasonal Crime Patterns in Tierra del Fuego
+# Detecting Seasonality in Crime in Tierra del Fuego
 
-## Introduction
-This project aims to implement a time series analysis model to detect seasonal patterns in the occurrence of different types of crimes in Tierra del Fuego, Argentina, from 2014 to 2024. Through machine learning and statistical analysis techniques, we seek to identify recurring trends that allow us to predict periodic increases or decreases in crime incidence, in order to support local authorities in making decisions about the allocation of police resources and the development of preventive strategies.
+## Project Objective
+The primary goal of this project is to implement a time series analysis model to detect seasonal patterns in the occurrence of different types of crimes in the Province of Tierra del Fuego, AeIAS, from 2014 to 2024. By using machine learning techniques and statistical analysis, we aim to identify recurring trends that can predict periodic increases or decreases in crime incidence, to assist local authorities in decision-making regarding the allocation of police resources and the development of preventive strategies.
 
 ## Problem Context
-Crime and the incidence of offenses are persistent problems in many societies. In the Province of Tierra del Fuego, the variation in the occurrence of crimes over time is influenced by various social, economic, and cultural factors. It has been observed that crime can have seasonal components, with certain types of crimes occurring more frequently in specific months or seasons of the year. 
+Crime and criminal incidents are persistent issues in many societies. In the Province of Tierra del Fuego, AeIAS, crime variation over time is influenced by numerous social, economic, and cultural factors, and it has been observed that crime can have seasonal components, with certain types of crimes occurring more frequently in specific months or seasons. For example, property theft may be more common during the summer, while other types of crimes may increase in specific months due to holidays or vacations.
 
-**For example, property crimes such as theft may be more common during the summer, when there is more tourist activity and less property supervision.**
+Understanding these seasonal patterns is crucial for anticipating increases in criminal activity and taking preventive measures efficiently. Currently, security planning is largely reactive, based on historical incident reports. By applying time series analysis, this planning can be transformed into a more proactive process, allowing law enforcement to be better prepared and optimize the allocation of resources.
 
-Other types of crimes may increase in specific months due to holidays or vacation periods. Understanding these seasonal patterns is crucial to anticipating increases in criminal activity and taking preventive measures efficiently.
+## Research Questions and Hypotheses
+This project seeks to answer the following research questions:
 
-## Research Questions
-### Are there clear seasonal patterns in the incidence of certain types of crimes in the Province of Tierra del Fuego?
-### Which types of crimes show a stronger correlation with specific months or seasons of the year?
-### How can seasonal trends help predict increases in criminal activity and support the planning of police resources?
+1. Are there clear seasonal patterns in the incidence of certain types of crimes in the Province of Tierra del Fuego?
+2. Which types of crimes show a higher correlation with certain months or seasons of the year?
+3. How can seasonal trends help predict increases in criminal activity and support police resource planning?
 
-## Project Structure
-The project structure follows a cookiecutter-based data science approach and includes:
-* **Data cleaning:** Preparation and cleaning of historical crime data.
-* **Exploratory data analysis (EDA):** Preliminary analysis to identify patterns and trends.
-* **Modeling:** Development of time series models to capture seasonality in the data.
-* **Evaluation:** Model validation to ensure accurate prediction.
-* **Deployment:** Preparation of the model for use by local authorities.
+**Hypotheses:**
+
+* **H1:** There is significant seasonality in the occurrence of some types of crimes, with certain peaks repeating during the same months across years.
+* **H2:** Property crimes have higher incidence during summer months due to increased tourism activity and lower property supervision.
+* **H3:** Time series analysis can reasonably predict crime activity peaks, facilitating better distribution of security resources.
 
 ## Project Value
-This project will provide value by helping local authorities make informed and proactive decisions about the allocation of police resources and the design of preventive strategies. With planning based on seasonal predictions, crime spikes can be mitigated and public safety can be optimized for the benefit of the community.
+This project will add value by helping local authorities make informed and proactive decisions on the allocation of police resources and the design of preventive strategies that mitigate seasonal crime peaks. With planning based on seasonal predictions, crime peaks can be mitigated, and public safety can be optimized for the benefit of the community.
 
 Project Organization
 ------------
