@@ -17,6 +17,8 @@
   </a>
 </p>
 
+[Video del modelo AA](https://drive.google.com/file/d/1RRIBn2iNZwMkugKqeOO00r74slreA9hD/view?usp=drive_link)
+
 # Detección de Estacionalidad en la Criminalidad de Tierra del Fuego
 
 ## Objetivo del Proyecto
