@@ -17,7 +17,7 @@
   </a>
 </p>
 
-[Video del modelo AA](https://drive.google.com/file/d/1RRIBn2iNZwMkugKqeOO00r74slreA9hD/view?usp=drive_link)
+[Video del modelo AA](•	https://github.com/arytdf/Deteccion_de_Estacionalidad_en_Crimen/tree/main/references)
 
 # Detección de Estacionalidad en la Criminalidad de Tierra del Fuego
 
